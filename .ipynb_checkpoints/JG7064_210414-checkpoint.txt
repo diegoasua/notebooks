@@ -1,0 +1,170 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 8.5%
+
+Today we continue screening a new field (field 6) in mouse (JG7064).
+
+session: 2
+
+-----------------------------
+cellseries field 6 - 6 pulses
+-----------------------------
+
+JG7064_210414_field6_avg_00002_00001.tif = Ref
+
+Block 1
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210414_field6_1_individual cells (1-5)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00001_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0001.tif
+ Voyeur: 7064_2_01_D2021_4_14T14_39_38.h5
+ Result:
+ Notes:
+
+x=2.96, y=-4.08, z=0 
+
+Block 2
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210414_field6_2_individual cells (6-10)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00002_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0002.tif
+ Voyeur: 7064_2_02_D2021_4_14T14_52_33.h5
+ Result:
+ Notes:
+
+x=-0.32, y=2.88, z=0 
+
+Block 3
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210414_field6_3_individual cells (11-15)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00003_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0003.tif
+ Voyeur: 7064_2_03_D2021_4_14T15_8_4.h5
+ Result:
+ Notes:
+
+x=2.92, y=-1.32, z=0 
+
+Block 4
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210414_field6_4_individual cells (16-20)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00004_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0004.tif
+ Voyeur: 7064_2_04_D2021_4_14T15_20_57.h5
+ Result:
+ Notes:
+
+x=1.32, y=1.92, z=0 
+
+Block 5
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210414_field6_5_individual cells (21-25)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00005_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0005.tif
+ Voyeur: 7064_2_05_D2021_4_14T15_34_8.h5
+ Result:
+ Notes:
+
+x=0.28, y=-0.68, z=0 
+
+Block 6
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210414_field6_6_individual cells (26-30)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00006_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0006.tif
+ Voyeur: 7064_2_06_D2021_4_14T15_46_19.h5
+ Result:
+ Notes: Utterly strange sniff. Will fix after this block. Added water.
+
+x=-1.08, y=-1.36, z=0 
+
+Block 7
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210414_field6_7_individual cells (31-35)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00007_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0007.tif
+ Voyeur: 7064_2_07_D2021_4_14T16_0_15.h5
+ Result:
+ Notes:
+
+x=0.08, y=0.04, z=0 
+
+Block 8
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210414_field6_8_individual cells (36-42)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00008_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0008.tif
+ Voyeur: 7064_2_08_D2021_4_14T16_18_37.h5
+ Result:
+ Notes: Added two more cells that were not screened yesterday (hence up to 42).
+
+-----------------------------
+cellseries field 6 - 3 pulses
+-----------------------------
+
+x=2.80, y=-2.04, z=0 
+
+Block 9
+ Power: 17.4 A (36 mW) 3 pulses
+ Hologram: JG7064_210414_field6_9_individual cells (1-5)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00009_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0009.tif
+ Voyeur: 7064_2_09_D2021_4_14T16_33_6.h5
+ Result:
+ Notes:
+
+x=0.16, y=0.20, z=0 
+
+Block 10
+ Power: 17.4 A (36 mW) 3 pulses
+ Hologram: JG7064_210414_field6_10_individual cells (6-10)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00010_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0010.tif
+ Voyeur: 7064_2_10_D2021_4_14T16_57_56.h5
+ Result:
+ Notes:
+
+x=-0.84, y=5.48, z=0 
+
+Block 11
+ Power: 17.4 A (36 mW) 3 pulses
+ Hologram: JG7064_210414_field6_11_individual cells (11-15)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00011_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0011.tif
+ Voyeur: 7064_2_11_D2021_4_14T17_9_54.h5
+ Result:
+ Notes:
+
+x=-1.40, y=-7.36, z=0 
+
+Block 12
+ Power: 17.4 A (36 mW) 3 pulses
+ Hologram: JG7064_210414_field6_12_individual cells (15-20)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210414_field6_cellseries_00012_00001.tif
+ Wavesurfer: JG7064_210414_field6_cellseries_001_0012.tif
+ Voyeur: 7064_2_12_D2021_4_14T17_22_34.h5
+ Result:
+ Notes:

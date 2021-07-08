@@ -1,0 +1,129 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 11%
+
+Today we are doing odor field 1 of mouse JG7063
+
+session: 6
+
+-----------------------------
+odor field 1
+-----------------------------
+
+JG7063_210517_field1_avg_00002_00001.tif = Ref
+
+Block 1
+ Power: None
+ Hologram: None
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00001_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0001.tif
+ Voyeur: 7063_6_01_D2021_5_17T16_49_36_odor.h5
+ Result:
+ Notes:
+
+x=3.20, y=-0.36, z=0.00
+
+Block 2
+ Power: None
+ Hologram: None
+ Odors: [Cyclohexanol, Methyl salicylate, Allyl tiglate, Ethyl propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00002_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0002.tif
+ Voyeur: 7063_6_02_D2021_5_17T17_2_59_odor.h5
+ Result:
+ Notes:
+
+x=0.20, y=-0.12, z=3.68
+
+Block 3
+ Power: None
+ Hologram: None
+ Odors: [Ethyl Propionate, Allyl Tiglate, Butyl Propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00003_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0003.tif
+ Voyeur: 7063_6_03_D2021_5_17T17_16_2_odor.h5
+ Result:
+ Notes:
+
+x=1.64, y=-1.16, z=0.16
+
+Block 4
+ Power: None
+ Hologram: None
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00004_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0004.tif
+ Voyeur: 7063_6_04_D2021_5_17T17_26_19_odor.h5
+ Result:
+ Notes:
+
+x=-0.04, y=-2.28, z=1.76
+
+Block 5
+ Power: None
+ Hologram: None
+ Odors: [Cyclohexanol, Methyl salicylate, Allyl tiglate, Ethyl propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00005_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0005.tif
+ Voyeur: 7063_6_05_D2021_5_17T17_39_13_odor.h5
+ Result:
+ Notes:
+
+x=0.80, y=-0.84, z=0.00
+
+Block 6
+ Power: None
+ Hologram: None
+ Odors: [Ethyl Propionate, Allyl Tiglate, Butyl Propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00006_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0006.tif
+ Voyeur: 7063_6_06_D2021_5_17T17_50_55_odor.h5
+ Result:
+ Notes:
+
+x=0.28, y=-0.96, z=0.48
+
+Block 7
+ Power: None
+ Hologram: None
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00007_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0007.tif
+ Voyeur: 7063_6_07_D2021_5_17T18_1_24_odor.h5
+ Result:
+ Notes:
+
+x=0.04, y=-0.88, z=2.56
+
+Block 8
+ Power: None
+ Hologram: None
+ Odors: [Cyclohexanol, Methyl salicylate, Allyl tiglate, Ethyl propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00008_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0008.tif
+ Voyeur: 7063_6_08_D2021_5_17T18_14_56_odor.h5
+ Result:
+ Notes:
+
+x=1.48, y=-0.40, z=0.00
+
+Block 9
+ Power: None
+ Hologram: None
+ Odors: [Ethyl Propionate, Allyl Tiglate, Butyl Propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210517_field1_odor_00009_00001.tif
+ Wavesurfer: JG7063_210517_field1_odor_006_0009.tif
+ Voyeur: 7063_6_09_D2021_5_17T18_27_14_odor.h5
+ Result:
+ Notes:
+
+Done

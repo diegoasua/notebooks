@@ -1,0 +1,166 @@
+Right side, GCaMP6s
+0.750/ 0.600, 920 nm, 11%
+
+Today we continue screening a new field (field 7) in mouse (JG7064).
+
+session: 2
+
+-----------------------------
+cellseries field 7 - 6 pulses
+-----------------------------
+
+JG7064_210412_field7_avg_00001_00001.tif = Ref
+
+Block 1
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_1_individual cells (1-5)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00001_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0001.tif
+ Voyeur: 7064_2_01_D2021_4_12T15_47_27.h5
+ Result:
+ Notes:
+
+x=0.72, y=0.76, z=-1.44 
+
+Block 2
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_2_individual cells (6-10)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00002_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0002.tif
+ Voyeur: 7064_2_02_D2021_4_12T16_2_50.h5
+ Result:
+ Notes:
+
+x=1.36, y=-0.72, z=0.32
+
+Block 3
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_3_individual cells (11-15)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00003_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0003.tif
+ Voyeur: 7064_2_03_D2021_4_12T16_14_53.h5
+ Result:
+ Notes:
+
+x=-1.12, y=1.28, z=0.32
+
+Block 4
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_4_individual cells (16-20)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00004_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0004.tif
+ Voyeur: 7064_2_04_D2021_4_12T16_43_35.h5
+ Result:
+ Notes:
+
+x=2.36, y=0.56, z=1.28
+
+Block 5
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_5_individual cells (21-25)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00005_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0005.tif
+ Voyeur: 7064_2_05_D2021_4_12T17_1_39.h5
+ Result:
+ Notes:
+
+x=-1.60, y=2.00, z=0.32
+
+Block 6
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_6_individual cells (26-30)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00006_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0006.tif
+ Voyeur: 7064_2_06_D2021_4_12T17_16_27.h5
+ Result:
+ Notes:
+
+x=1.32, y=0.32, z=1.44 
+
+Block 7
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_7_individual cells (31-35)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00007_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0007.tif
+ Voyeur: 7064_2_07_D2021_4_12T17_29_42.h5
+ Result: Added water after the block.
+ Notes:
+
+x=0.86, y=1.72, z=0.00
+
+Block 8
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_8_individual cells (36-40)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00008_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0008.tif
+ Voyeur: 7064_2_08_D2021_4_12T17_42_51.h5
+ Result:
+ Notes:
+
+x=2.52, y=-2.76, z=0.64
+
+Block 9
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_9_individual cells (41-45)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00009_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0009.tif
+ Voyeur: 7064_2_09_D2021_4_12T17_58_2.h5
+ Result:
+ Notes:
+
+x=1.12, y=-0.76, z=0.32
+
+Block 10
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_10_individual cells (46-50)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00010_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0010.tif
+ Voyeur: 7064_2_10_D2021_4_12T18_11_39.h5
+ Result:
+ Notes:
+
+x=2.34, y=1.26, z=0.72
+
+Block 11
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_11_individual cells (51-55)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00011_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0011.tif
+ Voyeur: 7064_2_11_D2021_4_12T18_23_33.h5
+ Result:
+ Notes:
+
+x=1.64, y=1.32, z=6.32 
+
+Block 12
+ Power: 17.6 A (40 mW) 6 pulses
+ Hologram: JG7064_210412_field7_12_individual cells (56-60)
+ Odors: None
+ Conc: 0.1
+ Tif: JG7064_210412_field7_cellseries_00012_00001.tif
+ Wavesurfer: JG7064_210412_field7_cellseries_002_0012.tif
+ Voyeur: 7064_2_12_D2021_4_12T18_33_59.h5
+ Result:
+ Notes: Cancelled. Damage started to appear, lower left corner.

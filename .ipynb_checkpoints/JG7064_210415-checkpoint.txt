@@ -1,0 +1,183 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 8.5%
+
+Today we continue screening a new field (field 6) in mouse (JG7064).
+
+session: 3
+
+-----------------------------
+cellseries field 6 - 3 pulses
+-----------------------------
+
+JG7064_210415_field6_avg_00002_00001.tif = Ref
+
+Block 1
+ Power: 17.4 A (36 mW) 3 pulses
+ Hologram: JG7064_210415_field6_5_individual cells (20-25)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210415_field6_cellseries_00001_00001.tif
+ Wavesurfer: JG7064_210415_field6_cellseries_003_0001.tif
+ Voyeur: 7064_3_01_D2021_4_15T15_42_54.h5
+ Result:
+ Notes:
+
+x=1.28, y=1.32, z=4.80 
+
+Block 2
+ Power: 17.4 A (36 mW) 3 pulses
+ Hologram: JG7064_210415_field6_6_individual cells (25-30)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210415_field6_cellseries_00002_00001.tif
+ Wavesurfer: JG7064_210415_field6_cellseries_003_0002.tif
+ Voyeur: 7064_3_02_D2021_4_15T16_0_31.h5
+ Result:
+ Notes:
+
+x=1.40, y=-2.48, z=0 
+
+Block 3
+ Power: 17.4 A (36 mW) 3 pulses
+ Hologram: JG7064_210415_field6_7_individual cells (30-35)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210415_field6_cellseries_00003_00001.tif
+ Wavesurfer: JG7064_210415_field6_cellseries_003_0003.tif
+ Voyeur: 7064_3_03_D2021_4_15T16_14_41.h5
+ Result:
+ Notes:
+
+x=0.24, y=-2.12, z=0 
+
+Block 4
+ Power: 17.4 A (36 mW) 3 pulses
+ Hologram: JG7064_210415_field6_8_individual cells (35-42)
+ Odors: None
+ Conc: None
+ Tif: JG7064_210415_field6_cellseries_00004_00001.tif
+ Wavesurfer: JG7064_210415_field6_cellseries_003_0004.tif
+ Voyeur: 7064_3_04_D2021_4_15T16_25_48.h5
+ Result:
+ Notes:
+
+-----------------------------
+odor field 6
+-----------------------------
+
+x=1.96, y=-1.64, z=0 
+
+Block 1
+ Power: None
+ Hologram: None
+ Odors: ['EthylValerate', '2-Heptanone','Cinnamaldehyde','Methylvalerate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00001_00001.tif
+ Wavesurfer: JG7064_210415_field6_odor_003_0001.tif
+ Voyeur: 7064_3_05_D2021_4_15T16_40_25_odor.h5
+ Result:
+ Notes:
+
+x=1.96, y=-1.64, z=0 
+
+Block 2
+ Power: None
+ Hologram: None
+ Odors: ['Cyclohexanol', 'Methyl salicylate','Allyl tiglate','Ethyl Propionate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00002_00001.tif
+ Wavesurfer: 7064_3_06_D2021_4_15T16_56_38_odor.h5
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0.64, y=-1.96, z=-4.00 
+
+Block 3
+ Power: None
+ Hologram: None
+ Odors: ['Isoamylacetate', 'Butyl Propionate','Ethyl Butyrate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00003_00001.tif
+ Wavesurfer: JG7064_210415_field6_odor_003_0003.tif
+ Voyeur: 7064_3_07_D2021_4_15T17_10_51_odor.h5
+ Result:
+ Notes: Dim because little water. Added water after block.
+
+x=0.56, y=-1.44, z=-1.12
+
+Block 4
+ Power: None
+ Hologram: None
+ Odors: ['EthylValerate', '2-Heptanone','Cinnamaldehyde','Methylvalerate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00004_00001.tif
+ Wavesurfer: JG7064_210415_field6_odor_003_0004.tif
+ Voyeur: 7064_3_08_D2021_4_15T17_24_16_odor.h5
+ Result:
+ Notes:
+
+x=2.28, y=6.84, z=0.00
+
+Block 5
+ Power: None
+ Hologram: None
+ Odors: 'Cyclohexanol', 'Methyl salicylate','Allyl tiglate','Ethyl Propionate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00005_00001.tif
+ Wavesurfer: JG7064_210415_field6_odor_003_0005.tif
+ Voyeur: 7064_3_09_D2021_4_15T17_35_35_odor.h5
+ Result:
+ Notes:
+
+x=0.88, y=-9.88, z=0.00 
+
+Block 6
+ Power: None
+ Hologram: None
+ Odors: ['Isoamylacetate', 'Butyl Propionate','Ethyl Butyrate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00006_00001.tif
+ Wavesurfer: JG7064_210415_field6_odor_003_0006.tif
+ Voyeur: 7064_3_10_D2021_4_15T17_47_59_odor.h5
+ Result:
+ Notes:
+
+x=0.40, y=-6.84, z=0.00
+
+Block 7
+ Power: None
+ Hologram: None
+ Odors: ['EthylValerate', '2-Heptanone','Cinnamaldehyde','Methylvalerate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00007_00001.tif
+ Wavesurfer: JG7064_210415_field6_odor_003_0007.tif
+ Voyeur: 7064_3_11_D2021_4_15T18_0_38_odor.h5
+ Result:
+ Notes:
+ 
+x=0.20, y=-0.16, z=-0.80
+
+Block 8
+ Power: None
+ Hologram: None
+ Odors: ['Cyclohexanol', 'Methyl salicylate','Allyl tiglate','Ethyl Propionate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00008_00001.tif
+ Wavesurfer: JG7064_210415_field6_odor_003_0008.tif
+ Voyeur: 7064_3_12_D2021_4_15T18_14_18_odor.h5
+ Result:
+ Notes:
+ 
+ x=2.20, y=-3.44, z=-1.92
+ 
+ Block 9
+ Power: None
+ Hologram: None
+ Odors: ['Isoamylacetate', 'Butyl Propionate','Ethyl Butyrate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210415_field6_odor_00009_00001.tif
+ Wavesurfer: JG7064_210415_field6_odor_003_0009.tif
+ Voyeur: 7064_3_13_D2021_4_15T18_27_51_odor.h5
+ Result:
+ Notes:

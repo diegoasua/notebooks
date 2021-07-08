@@ -1,0 +1,129 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 8.5%
+
+Today we are screening odors in field 6 in mouse JG7064 (second part)
+
+session: 4
+
+-----------------------------
+Odor field 6
+-----------------------------
+
+JG7064_210416_field6_avg_00003_00001.tif = Ref
+
+Block 1
+ Power: None
+ Hologram: None
+ Odors: ['Benzaldehyde','Ethyl Tiglate','3-Heptanone','(+)-Pinene'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00001_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0001.tif
+ Voyeur: 7064_4_01_D2021_4_16T15_48_5_odor.h5
+ Result:
+ Notes:
+
+x=3.20, y=-1.92, z=0 
+
+Block 2
+ Power: None
+ Hologram: None
+ Odors: ['Heptanal', 'Isobutyl propionate', 'Methyl tiglate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00002_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0002.tif
+ Voyeur: 7064_4_02_D2021_4_16T16_6_9_odor.h5
+ Result:
+ Notes:
+
+x=1.16, y=-0.96, z=0 
+
+Block 3
+ Power: None
+ Hologram: None
+ Odors: ['4-Allylanisole', 'Isoamyl butyrate', 'Butyl acetate', 'Allyl butyrate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00003_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0003.tif
+ Voyeur: 7064_4_03_D2021_4_16T16_16_16_odor.h5
+ Result:
+ Notes:
+
+x=3.48, y=-0.60, z=-1.60
+
+Block 4
+ Power: None
+ Hologram: None
+ Odors: ['Benzaldehyde','Ethyl Tiglate','3-Heptanone','(+)-Pinene'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00004_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0004.tif
+ Voyeur: 7064_4_04_D2021_4_16T16_30_1_odor.h5
+ Result:
+ Notes:
+
+x=0.36, y=-1.96, z=0 
+
+Block 5
+ Power: None
+ Hologram: None
+ Odors: ['Heptanal', 'Isobutyl propionate', 'Methyl tiglate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00005_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0005.tif
+ Voyeur: 7064_4_05_D2021_4_16T16_42_18_odor.h5
+ Result:
+ Notes:
+
+x=2.28, y=-3.48, z=0 
+
+Block 6
+ Power: None
+ Hologram: None
+ Odors: ['4-Allylanisole', 'Isoamyl butyrate', 'Butyl acetate', 'Allyl butyrate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00006_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0006.tif
+ Voyeur: 7064_4_06_D2021_4_16T16_53_23_odor.h5
+ Result:
+ Notes:
+
+x=0.48, y=-3.84, z=-1.60 
+
+Block 7
+ Power: None
+ Hologram: None
+ Odors: ['Benzaldehyde','Ethyl Tiglate','3-Heptanone','(+)-Pinene'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00007_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0007.tif
+ Voyeur: 7064_4_07_D2021_4_16T17_6_59_odor.h5
+ Result:
+ Notes:
+
+x=-0.60, y=-0.44, z=0 
+
+Block 8
+ Power: None
+ Hologram: None
+ Odors: ['Heptanal', 'Isobutyl propionate', 'Methyl tiglate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00008_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0008.tif
+ Voyeur: 7064_4_08_D2021_4_16T17_20_36_odor.h5
+ Result:
+ Notes:
+
+x=-0.20, y=-1.72, z=0 
+
+Block 9
+ Power: None
+ Hologram: None
+ Odors: ['4-Allylanisole', 'Isoamyl butyrate', 'Butyl acetate', 'Allyl butyrate'] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7064_210416_field6_odor_00009_00001.tif
+ Wavesurfer: JG7064_210416_field6_odor_004_0009.tif
+ Voyeur: 7064_4_09_D2021_4_16T17_29_33_odor.h5
+ Result:
+ Notes:
+ 
+Done

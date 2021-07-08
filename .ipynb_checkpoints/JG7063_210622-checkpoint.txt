@@ -1,0 +1,114 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 10%
+
+Today we are doing odorstim field 2 of mouse JG7063
+
+session: 15
+
+-----------------------------
+odorstim field 2
+-----------------------------
+
+JG7063_210622_field2_avg_00001_00001.tif = Ref
+
+Block 1
+ Power: 16.98 A (30 mW) 6 pulses
+ Hologram: JG7063_210622_field2_responders_1_individual cells (12, 24, 34)
+ Odors: [Isoamylacetate, Isobutyl propionate, Methyl tiglate] + blank
+ Conc: 0.1
+ Tif: JG7063_210622_field2_odorstim_00001_00001.tif
+ Wavesurfer: JG7063_210622_field2_odorstim_015_0001.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 2
+ Power: 16.98 A (30 mW) 6 pulses
+ Hologram: JG7063_210622_field2_responders_1_individual cells (12, 24, 34)
+ Odors: [Methyl salicylate, Isoamyl butyrate, Butyl acetate, Ethyl propionate]
+ Conc: 0.1
+ Tif: JG7063_210622_field2_odorstim_00002_00001.tif
+ Wavesurfer: JG7063_210622_field2_odorstim_015_0002.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 3
+ Power: 16.98 A (30 mW) 6 pulses
+ Hologram: JG7063_210622_field2_responders_1_individual cells (12, 24, 34)
+ Odors: [Isoamylacetate, Isobutyl propionate, Methyl tiglate] + blank
+ Conc: 0.1
+ Tif: JG7063_210622_field2_odorstim_00003_00001.tif
+ Wavesurfer: JG7063_210622_field2_odorstim_015_0003.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 4
+ Power: 16.98 A (30 mW) 6 pulses
+ Hologram: JG7063_210622_field2_responders_1_individual cells (12, 24, 34)
+ Odors: [Methyl salicylate, Isoamyl butyrate, Butyl acetate, Ethyl propionate]
+ Conc: 0.1
+ Tif: JG7063_210622_field2_odorstim_00004_00001.tif
+ Wavesurfer: JG7063_210622_field2_odorstim_015_0004.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 5
+ Power: 16.98 A (30 mW) 6 pulses
+ Hologram: JG7063_210622_field2_responders_1_individual cells (12, 24, 34)
+ Odors: [Isoamylacetate, Isobutyl propionate, Methyl tiglate] + blank
+ Conc: 0.1
+ Tif: JG7063_210622_field2_odorstim_00005_00001.tif
+ Wavesurfer: JG7063_210622_field2_odorstim_015_0005.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 6
+ Power: 16.98 A (30 mW) 6 pulses
+ Hologram: JG7063_210622_field2_responders_1_individual cells (12, 24, 34)
+ Odors: [Methyl salicylate, Isoamyl butyrate, Butyl acetate, Ethyl propionate]
+ Conc: 0.1
+ Tif: JG7063_210622_field2_odorstim_00006_00001.tif
+ Wavesurfer: JG7063_210622_field2_odorstim_015_0006.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 7
+ Power: 16.98 A (30 mW) 6 pulses
+ Hologram: JG7063_210622_field2_responders_1_individual cells (12, 24, 34)
+ Odors: [Isoamylacetate, Isobutyl propionate, Methyl tiglate] + blank
+ Conc: 0.1
+ Tif: JG7063_210622_field2_odorstim_00007_00001.tif
+ Wavesurfer: JG7063_210622_field2_odorstim_015_0007.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 8
+ Power: 16.98 A (30 mW) 6 pulses
+ Hologram: JG7063_210622_field2_responders_1_individual cells (12, 24, 34)
+ Odors: [Methyl salicylate, Isoamyl butyrate, Butyl acetate, Ethyl propionate]
+ Conc: 0.1
+ Tif: JG7063_210622_field2_odorstim_00008_00001.tif
+ Wavesurfer: JG7063_210622_field2_odorstim_015_0008.tif
+ Voyeur: Foo
+ Result:
+ Notes:

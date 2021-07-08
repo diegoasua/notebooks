@@ -1,0 +1,142 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 8.5%
+
+Today we are doing odors + photostimulation in field 6 of mouse JG7064.
+
+session: 12
+
+-----------------------------
+Odorstim field 6
+-----------------------------
+
+JG7064_210428_field6_avg_00001_00001.tif = Ref
+
+Block 1
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (11, 12, 13)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210428_field6_odorstim_00001_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0001.tif
+ Voyeur: 7064_12_01_D2021_4_28T14_38_39.h5
+ Result:
+ Notes:
+
+x=-1.16, y=-2.76, z=0.00
+
+Block 2
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (11, 12, 13)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210428_field6_odorstim_00002_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0002.tif
+ Voyeur: 7064_12_02_D2021_4_28T14_55_55.h5
+ Result:
+ Notes:
+
+x=0.12, y=-2.12, z=0.00
+
+Block 3
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (16, 17, 18)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210428_field6_odorstim_00003_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0003.tif
+ Voyeur: 7064_12_03_D2021_4_28T15_12_49.h5
+ Result:
+ Notes:
+
+x=0.64, y=-2.52, z=0.32 
+
+Block 4
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (16, 17, 18)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210428_field6_odorstim_00004_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0004.tif
+ Voyeur: 7064_12_04_D2021_4_28T15_29_52.h5
+ Result:
+ Notes:
+
+x=2.48, y=-2.04, z=-2.08 
+
+Block 5
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (16, 17, 18)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210428_field6_odorstim_00005_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0005.tif
+ Voyeur: 7064_12_05_D2021_4_28T15_48_15.h5
+ Result:
+ Notes: Added water. Imaging power down to 7.5% (brighter in the evening)
+
+x=-1.04, y=-2.68, z=0.64
+
+Block 6
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (16, 17, 18)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210428_field6_odorstim_00006_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0006.tif
+ Voyeur: 7064_12_06_D2021_4_28T16_9_10.h5
+ Result:
+ Notes:
+
+x=1.96, y=-4.12, z=0.00
+
+Block 7
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (16, 17, 18)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210428_field6_odorstim_00007_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0007.tif
+ Voyeur: 7064_12_07_D2021_4_28T16_26_4.h5
+ Result:
+ Notes:
+
+x=-1.24, y=0.44, z=0.00
+
+Block 8
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (16, 17, 18)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.01
+ Tif: JG7064_210428_field6_odorstim_00008_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0008.tif
+ Voyeur: 7064_12_08_D2021_4_28T16_44_2.h5
+ Result:
+ Notes:
+
+x=1.40, y=-2.40, z=0.00
+
+Block 9
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (16, 17, 18)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210428_field6_odorstim_00009_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0009.tif
+ Voyeur: 7064_12_09_D2021_4_28T17_1_54.h5
+ Result:
+ Notes:
+
+x=0.04, y=-0.04, z=0.00
+
+Block 10
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210428_field6_responders_5_individual cells (16, 17, 18)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.01
+ Tif: JG7064_210428_field6_odorstim_00010_00001.tif
+ Wavesurfer: JG7064_210428_field6_odorstim_012_0010.tif
+ Voyeur: 7064_12_10_D2021_4_28T17_18_47.h5
+ Result:
+ Notes:
+ 
+ Done

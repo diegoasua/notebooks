@@ -1,0 +1,107 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 8.5%
+
+Today we are presenting odors and photostimulation in field 6 in mouse JG7064.
+
+session: 7
+
+-----------------------------
+odorstim field 6
+-----------------------------
+
+JG7064_210421_field6_avg_00001_00001.tif = Ref
+
+Block 1
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210421_field6_responders_1_individual cells (1,2,3)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210421_field6_odorstim_00001_00001.tif
+ Wavesurfer: JG7064_210421_field6_odorstim_007_0001.tif
+ Voyeur: 7064_7_01_D2021_4_21T14_51_13.h5
+ Result:
+ Notes: Water level dropped quickly, causing a lens effect (off-focus). Added water and
+ hoped for the best. There might be a hole in the head cap.
+
+x=1.08, y=-2.04, z=-1.76
+
+Block 2
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210421_field6_responders_1_individual cells (1,2,3)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210421_field6_odorstim_00002_00001.tif
+ Wavesurfer: JG7064_210421_field6_odorstim_007_0002.tif
+ Voyeur: 7064_7_02_D2021_4_21T15_22_39.h5
+ Result:
+ Notes:
+
+x=1.20, y=-2.96, z=0.00
+
+Block 3
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210421_field6_responders_1_individual cells (1,2,3)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210421_field6_odorstim_00003_00001.tif
+ Wavesurfer: JG7064_210421_field6_odorstim_007_0003.tif
+ Voyeur: 7064_7_03_D2021_4_21T15_40_55.h5
+ Result:
+ Notes: Added water again.
+
+x=6.56, y=-5.80, z=-4.64
+
+Block 4
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210421_field6_responders_1_individual cells (1,2,3)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210421_field6_odorstim_00004_00001.tif
+ Wavesurfer: JG7064_210421_field6_odorstim_007_0004.tif
+ Voyeur: 7064_7_04_D2021_4_21T16_2_50.h5
+ Result:
+ Notes:
+
+x=-2.48, y=-3.48, z=0.00
+
+Block 5
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210421_field6_responders_2_individual cells (22,23,24)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210421_field6_odorstim_00005_00001.tif
+ Wavesurfer: JG7064_210421_field6_odorstim_007_0005.tif
+ Voyeur: 7064_7_05_D2021_4_21T16_23_55.h5
+ Result:
+ Notes: Added water again (like before, started running the next block,
+ in the middle of it water level will drop and one would lose that data and
+ have to restart the block again).
+
+x=0.76, y=-3.48, z=2.24 
+
+Block 6
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210421_field6_responders_individual cells (1,2,3)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210421_field6_odorstim_00006_00001.tif
+ Wavesurfer: JG7064_210421_field6_odorstim_007_0006.tif
+ Voyeur: 7064_7_06_D2021_4_21T17_1_40.h5
+ Result:
+ Notes:
+
+x=0.36, y=0.08, z=0.00
+
+Block 7
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210421_field6_responders_individual cells (1,2,3)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210421_field6_odorstim_00007_00001.tif
+ Wavesurfer: JG7064_210421_field6_odorstim_007_0007.tif
+ Voyeur: 7064_7_07_D2021_4_21T17_21_7.h5
+ Result:
+ Notes: Out of water again. Taking the subject out of the rig as it has been 
+ over 3 hours since clamp.
+ 
+ Done

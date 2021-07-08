@@ -1,0 +1,105 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 8.5%
+
+Today we are doing photostimulation + odors in field 6 in mouse JG7064.
+
+session: 6
+
+-----------------------------
+odor field 6
+-----------------------------
+
+JG7064_210420_field6_avg_00001_00001.tif = Ref
+
+Block 1
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210420_field6_responders_1 (1,2,3)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210420_field6_odorstim_00001_00001.tif
+ Wavesurfer: JG7064_210420_field6_odorstim_006_0001.tif
+ Voyeur: 7064_6_01_D2021_4_20T14_26_37.h5
+ Result:
+ Notes: WARNING: PHOTOTSTIM SHUTTER WAS CLOSED; NO PHOTOSTIMULATION WAS DELIVERED
+
+x=3.56, y=-2.04, z=0
+
+Block 2
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210420_field6_responders_1 (1,2,3)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.01
+ Tif: JG7064_210420_field6_odorstim_00002_00001.tif
+ Wavesurfer: JG7064_210420_field6_odorstim_006_0002.tif
+ Voyeur: 7064_6_02_D2021_4_20T14_44_39.h5
+ Result:
+ Notes: WARNING: PHOTOTSTIM SHUTTER WAS CLOSED; NO PHOTOSTIMULATION WAS DELIVERED
+
+x=3.60, y=-2.08, z=-3.84
+
+Block 3
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210420_field6_responders_1 (1,2,3)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210420_field6_odorstim_00003_00001.tif
+ Wavesurfer: JG7064_210420_field6_odorstim_006_0003.tif
+ Voyeur: 7064_6_03_D2021_4_20T15_2_33.h5
+ Result:
+ Notes: WARNING: PHOTOTSTIM SHUTTER WAS CLOSED; NO PHOTOSTIMULATION WAS DELIVERED
+
+x=3.12, y=-0.68, z=-1.12
+
+Block 4
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210420_field6_responders_1 (1,2,3)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.01
+ Tif: JG7064_210420_field6_odorstim_00004_00001.tif
+ Wavesurfer: JG7064_210420_field6_odorstim_006_0004.tif
+ Voyeur: 7064_6_04_D2021_4_20T15_25_12.h5
+ Result:
+ Notes: WARNING: PHOTOTSTIM SHUTTER WAS CLOSED; NO PHOTOSTIMULATION WAS DELIVERED
+
+x=0.16, y=-4.96, z=-3.84 
+
+Block 5
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210420_field6_responders_1 (1,2,3)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210420_field6_odorstim_00005_00001.tif
+ Wavesurfer: JG7064_210420_field6_odorstim_006_0005.tif
+ Voyeur: 7064_6_05_D2021_4_20T15_44_16.h5
+ Result:
+ Notes: WARNING: PHOTOTSTIM SHUTTER WAS CLOSED; NO PHOTOSTIMULATION WAS DELIVERED
+
+x=0.20, y=0, z=0 
+
+Block 6
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210420_field6_responders_1 (1,2,3)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210420_field6_odorstim_00006_00001.tif
+ Wavesurfer: JG7064_210420_field6_odorstim_006_0006.tif
+ Voyeur: 7064_6_06_D2021_4_20T16_1_52.h5
+ Result:
+ Notes: WARNING: PHOTOTSTIM SHUTTER WAS CLOSED; NO PHOTOSTIMULATION WAS DELIVERED
+
+x=0.80, y=-0.40, z=1.60   
+
+Block 7
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210420_field6_responders_2 (22,23,24)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210420_field6_odorstim_00007_00001.tif
+ Wavesurfer: JG7064_210420_field6_odorstim_006_0007.tif
+ Voyeur: 7064_6_07_D2021_4_20T16_21_42.h5
+ Result:
+ Notes: These are probably best responders based on photostim data from last week. 25 is also
+ a good responder, will be included in next set. Realised Pharos' shutter was closed all the time.
+ All the data from this session is without photostimulation... Adding a warning to each block.
+ WARNING: PHOTOTSTIM SHUTTER WAS CLOSED; NO PHOTOSTIMULATION WAS DELIVERED
+ 

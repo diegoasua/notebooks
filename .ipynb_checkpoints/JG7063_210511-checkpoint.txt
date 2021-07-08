@@ -1,0 +1,161 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 11%
+
+Today we are doing cellseries field 1 of mouse JG7063.
+
+session: 2
+
+-----------------------------
+Cellseries field 1
+-----------------------------
+
+JG7063_210511_field1_avg_00003_00001.tif = Ref
+
+Block 1
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_8_individual cells (36, 37, 38, 39, 40)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00001_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0001.tif
+ Voyeur: 7063_2_01_D2021_5_11T14_51_1.h5
+ Result:
+ Notes:
+
+x=0.40, y=-1.48, z=0.00
+
+Block 2
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_9_individual cells (41, 42, 43, 44, 45)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00002_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0002.tif
+ Voyeur: 7063_2_02_D2021_5_11T15_4_32.h5
+ Result:
+ Notes:
+
+x=1.36, y=-0.88, z=0 
+
+Block 3
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_10_individual cells (46, 47, 48, 49, 50)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00003_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0003.tif
+ Voyeur: 7063_2_03_D2021_5_11T15_16_55.h5
+ Result:
+ Notes:
+
+x=-1.00, y=-1.60, z=0.00
+
+Block 4
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_11_individual cells (51, 52, 53, 54, 55)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00004_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0004.tif
+ Voyeur: 7063_2_04_D2021_5_11T15_28_16.h5
+ Result:
+ Notes:
+
+x=-1.52, y=0.88, z=0.00 
+
+Block 5
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_12_individual cells (56, 57, 58, 59, 60)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00005_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0005.tif
+ Voyeur: 7063_2_05_D2021_5_11T15_42_50.h5
+ Result:
+ Notes:
+
+x=-0.08, y=-1.24, z=1.44
+
+Block 6
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_13_individual cells (61, 62, 63, 64, 65)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00006_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0006.tif
+ Voyeur: 7063_2_06_D2021_5_11T15_59_42.h5
+ Result:
+ Notes: Some trials towards the end did not trigger correct timing due to weird sniff shape.
+
+x=0.28, y=-0.16, z=-0.16
+
+Block 7
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_14_individual cells (66, 67, 68, 69, 70)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00007_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0007.tif
+ Voyeur: 7063_2_07_D2021_5_11T16_11_58.h5
+ Result:
+ Notes: Added water.
+
+x=2.16, y=-0.96, z=0.00
+
+Block 8
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_15_individual cells (71, 72, 73, 74, 75)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00008_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0008.tif
+ Voyeur: 7063_2_08_D2021_5_11T16_36_40.h5
+ Result:
+ Notes:
+
+x=-1.32, y=1.64, z=0.00
+
+Block 9
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_16_individual cells (76, 77, 78, 79, 80)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00009_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0009.tif
+ Voyeur: 7063_2_09_D2021_5_11T16_51_6.h5
+ Result:
+ Notes:
+
+x=-1.08, y=0.48, z=0.00
+
+Block 10
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: JG7063_210511_field1_17_individual cells (81, 82, 83, 84, 85)
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00010_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0010.tif
+ Voyeur: 7063_2_10_D2021_5_11T17_3_32.h5
+ Result:
+ Notes:
+
+x=0.12, y=-0.16, z=1.92
+
+Block 11
+ Power: 17.02 A (30 mW) 6 pulses
+ Hologram: None
+ Odors: None
+ Conc: None
+ Tif: JG7063_210511_field1_cellseries_00011_00001.tif
+ Wavesurfer: JG7063_210511_field1_cellseries_002_0011.tif
+ Voyeur: 7063_2_11_D2021_5_11T17_16_0.h5
+ Result:
+ Notes: This is a mock block, to compare basal STA. Photostim shutter is closed, so no effective
+ photostimulation is given.
+
+
+responders: [39,40,42?,44,50,51(bananas!),54,60(bananas!),63?,65,73(bananas!)]
+
+weak responders: [36, 41?,45?,61,62,72?,74?,78]
+
+Done

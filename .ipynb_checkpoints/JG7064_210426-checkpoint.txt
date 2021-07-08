@@ -1,0 +1,145 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 8.5%
+
+Today we are doing odors + photostimulation in field 6 of mouse JG7064.
+
+session: 10
+
+-----------------------------
+Odorstim field 6
+-----------------------------
+
+JG7064_210426_field6_avg_00001_00001.tif = Ref
+
+Block 1
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (6,7,9)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210426_field6_odorstim_00001_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0001.tif
+ Voyeur: 7064_10_01_D2021_4_26T14_26_8.h5
+ Result:
+ Notes:
+
+x=-0.16, y=-0.44, z=0.00
+
+Block 2
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (6,7,9)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210426_field6_odorstim_00002_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0002.tif
+ Voyeur: 7064_10_02_D2021_4_26T14_43_49.h5
+ Result:
+ Notes: Might be some phase issues with resonant scanning due to it not being
+ on all time. Now (after this block) it should be fixed and phase should not change.
+
+x=1.32, y=-4.28, z=-3.84 
+
+Block 3
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (34,35,36)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210426_field6_odorstim_00003_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0003.tif
+ Voyeur: 7064_10_03_D2021_4_26T15_5_37.h5
+ Result:
+ Notes:
+
+x=3.08, y=-2.60, z=0.00
+
+Block 4
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (34,35,36)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210426_field6_odorstim_00004_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0004.tif
+ Voyeur: 7064_10_04_D2021_4_26T15_25_56.h5
+ Result:
+ Notes:
+
+x=-2.20, y=-3.32, z=-0.96
+
+Block 5
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (34,35,36)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210426_field6_odorstim_00005_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0005.tif
+ Voyeur: 7064_10_05_D2021_4_26T15_46_14.h5
+ Result:
+ Notes:
+
+x=1.76, y=-3.24, z=0.00
+
+Block 6
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (34,35,36)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.1
+ Tif: JG7064_210426_field6_odorstim_00006_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0006.tif
+ Voyeur: 7064_10_06_D2021_4_26T16_2_45.h5
+ Result:
+ Notes: Added water.
+
+x=0.12, y=-0.28, z=0.00
+
+Block 7
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (34,35,36)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210426_field6_odorstim_00007_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0007.tif
+ Voyeur: 7064_10_07_D2021_4_26T16_20_14.h5
+ Result:
+ Notes:
+
+x=0.68, y=-1.60, z=0.32
+
+Block 8
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (34,35,36)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.01
+ Tif: JG7064_210426_field6_odorstim_00008_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0008.tif
+ Voyeur: 7064_10_08_D2021_4_26T16_38_48.h5
+ Result:
+ Notes:
+
+x=-1.36, y=0.28, z=1.92
+
+Block 9
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (34,35,36)
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210426_field6_odorstim_00009_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0009.tif
+ Voyeur: 7064_10_09_D2021_4_26T16_57_40.h5
+ Result:
+ Notes: Power down to 7.5% because in the evenings the indicator gets brighter.
+
+x=-0.16, y=-0.40, z=0.00
+
+Block 10
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210426_field6_responders_3_individual cells (34,35,36)
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: 0.01
+ Tif: JG7064_210426_field6_odorstim_00010_00001.tif
+ Wavesurfer: JG7064_210426_field6_odorstim_010_0010.tif
+ Voyeur: 7064_10_10_D2021_4_26T17_15_20.h5
+ Result:
+ Notes:
+
+# TODO: High conc., 34-36, 6 pulses in order to reach 15 trials per cell & condition.
+
+Done

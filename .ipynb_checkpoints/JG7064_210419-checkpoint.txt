@@ -1,0 +1,93 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 8.5%
+
+Today we are doing odor + stimulation in field 6 in mouse JG7064.
+
+session: 5
+
+-----------------------------
+odor field 6
+-----------------------------
+
+JG7064_210419_field6_avg_00001_00001.tif = Ref
+
+Block 1
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210419_field6_responders_1_individual_cells
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene]
+ Conc: 0.1
+ Tif: JG7064_210419_field6_odorstim_00001_00001.tif
+ Wavesurfer: JG7064_210419_field6_odorstim_005_0001.tif
+ Voyeur: 7064_5_01_D2021_4_19T15_30_53.h5
+ Result:
+ Notes: There is no blank in this block. Everything crashed after block 1.
+ Windows had to be rebooted... Hence x,y,z were lost. Added water.
+
+x=?, y=?, z=? 
+
+Block 2
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210419_field6_responders_1_individual_cells
+ Odors: ['EthylValerate', '2-Heptanone', 'Cinnamaldehyde','Methylvalerate'] + blank
+ Conc: 0.1
+ Tif: JG7064_210419_field6_odorstim_00002_00001.tif
+ Wavesurfer: JG7064_210419_field6_odorstim_005_0002.tif
+ Voyeur: 7064_5_02_D2021_4_19T17_44_0.h5
+ Result:
+ Notes:
+
+x=-2.88, y=-0.96, z=3.20
+
+Block 3
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210419_field6_responders_1_individual_cells
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.1
+ Tif: JG7064_210419_field6_odorstim_00003_00001.tif
+ Wavesurfer: JG7064_210419_field6_odorstim_005_0003.tif
+ Voyeur: 7064_5_03_D2021_4_19T18_2_30.h5
+ Result:
+ Notes:
+
+x=-2.44, y=0.96, z=0
+
+Block 4
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210419_field6_responders_1_individual_cells
+ Odors: ['EthylValerate', '2-Heptanone', 'Cinnamaldehyde','Methylvalerate'] + blank
+ Conc: 0.1
+ Tif: JG7064_210419_field6_odorstim_00004_00001.tif
+ Wavesurfer: JG7064_210419_field6_odorstim_005_0004.tif
+ Voyeur: 7064_5_04_D2021_4_19T18_20_39.h5
+ Result:
+ Notes:
+
+x=3.28, y=1.92, z=4.16
+
+Block 5
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210419_field6_responders_1_individual_cells
+ Odors: [Benzaldehyde, Ethyl Tiglate, 3-Heptanone,(+)-Pinene] + blank
+ Conc: 0.01
+ Tif: JG7064_210419_field6_odorstim_00005_00001.tif
+ Wavesurfer: JG7064_210419_field6_odorstim_005_0005.tif
+ Voyeur: 7064_5_05_D2021_4_19T18_39_13.h5
+ Result:
+ Notes:
+
+x=0, y=0, z=0 
+
+Block 6
+ Power: 17.4 A (36 mW) 6 pulses
+ Hologram: JG7064_210419_field6_responders_1_individual_cells
+ Odors: ['EthylValerate', '2-Heptanone', 'Cinnamaldehyde','Methylvalerate'] + blank
+ Conc: 0.01
+ Tif: JG7064_210419_field6_odorstim_00006_00001.tif
+ Wavesurfer: JG7064_210419_field6_odorstim_005_0006.tif
+ Voyeur: 7064_5_06_D2021_4_19T18_57_12.h5
+ Result:
+ Notes: Subject has been in the rig for > 3h 1/2. Too long, taking out.
+
+TODO: 2 more trials for low conc. (each) and 1 more trial for high conc. (each).
+
+Done

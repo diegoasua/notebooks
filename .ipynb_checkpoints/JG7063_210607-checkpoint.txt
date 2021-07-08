@@ -1,0 +1,127 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 10.5%
+
+Today we are doing odor field 2 of mouse JG7063
+
+session: 5
+
+-----------------------------
+odor field 2
+-----------------------------
+
+JG7063_210607_field2_avg_00002_00001.tif = Ref
+
+Block 1
+ Power: None
+ Hologram: None
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00001_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0001.tif
+ Voyeur: Foo
+ Result:
+ Notes: Increased sniff amplitude after block.
+
+x=1.48, y=-2.84, z=0.00 
+
+Block 2
+ Power: None
+ Hologram: None
+ Odors: [Heptanal, Isobutyl Propionate, Methyl Tiglate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00002_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0002.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0.60, y=-2.44, z=1.28 
+
+Block 3
+ Power: None
+ Hologram: None
+ Odors: [4-Allylanisole, Isoamyl Butyrate, Butyl Acetate, Butyl Propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00003_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0003.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0 
+
+Block 4
+ Power: None
+ Hologram: None
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00004_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0004.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0 
+
+Block 5
+ Power: None
+ Hologram: None
+ Odors: [Heptanal, Isobutyl Propionate, Methyl Tiglate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00005_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0005.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0 
+
+Block 6
+ Power: None
+ Hologram: None
+ Odors: [4-Allylanisole, Isoamyl Butyrate, Butyl Acetate, Butyl Propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00006_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0006.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0 
+
+Block 7
+ Power: None
+ Hologram: None
+ Odors: [EthylValerate, 2-Heptanone, Cinnamaldehyde, Methylvalerate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00007_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0007.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0 
+
+Block 8
+ Power: None
+ Hologram: None
+ Odors: [Heptanal, Isobutyl Propionate, Methyl Tiglate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00008_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0008.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0 
+
+Block 9
+ Power: None
+ Hologram: None
+ Odors: [4-Allylanisole, Isoamyl Butyrate, Butyl Acetate, Butyl Propionate] + blank
+ Conc: [0.1, 0.01]
+ Tif: JG7063_210607_field2_odor_00009_00001.tif
+ Wavesurfer: JG7063_210607_field2_odor_005_0009.tif
+ Voyeur: Foo
+ Result:
+ Notes:
