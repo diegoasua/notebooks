@@ -1,0 +1,114 @@
+Right side, GCaMP6s
+0.750/0.600, 920 nm, 12%
+
+Today we are doing cellseries field 1 of mouse JG7404
+
+session: 2
+
+-----------------------------
+cellseries field 1
+-----------------------------
+
+JG7404_210715_field1_avg_00001_00001.tif = Ref
+
+Block 1
+ Power: 16.98 A (30 mW) 3 pulses
+ Hologram: JG7404_210715_field1_responders_1_individual cells (1, 2, 3, 4, 5)
+ Odors: None
+ Conc: None
+ Tif: JG7404_210715_field1_cellseries_00001_00001.tif
+ Wavesurfer: JG7404_210715_field1_cellseries_002_0001.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 2
+ Power: 16.98 A (30 mW) 3 pulses
+ Hologram: JG7404_210715_field1_responders_2_individual cells (6, 7, 8, 9, 10)
+ Odors: None
+ Conc: None
+ Tif: JG7404_210715_field1_cellseries_00002_00001.tif
+ Wavesurfer: JG7404_210715_field1_cellseries_002_0002.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 3
+ Power: 16.98 A (30 mW) 3 pulses
+ Hologram: JG7404_210715_field1_responders_3_individual cells (11, 12, 13, 14, 15)
+ Odors: None
+ Conc: None
+ Tif: JG7404_210715_field1_cellseries_00003_00001.tif
+ Wavesurfer: JG7404_210715_field1_cellseries_002_0003.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 4
+ Power: 16.98 A (30 mW) 3 pulses
+ Hologram: JG7404_210715_field1_responders_4_individual cells (16, 17, 18, 19, 20)
+ Odors: None
+ Conc: None
+ Tif: JG7404_210715_field1_cellseries_00004_00001.tif
+ Wavesurfer: JG7404_210715_field1_cellseries_002_0004.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 5
+ Power: 16.98 A (30 mW) 3 pulses
+ Hologram: JG7404_210715_field1_responders_5_individual cells (21, 22, 23, 24, 25)
+ Odors: None
+ Conc: None
+ Tif: JG7404_210715_field1_cellseries_00005_00001.tif
+ Wavesurfer: JG7404_210715_field1_cellseries_002_0005.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 6
+ Power: 16.98 A (30 mW) 3 pulses
+ Hologram: JG7404_210715_field1_responders_6_individual cells (26, 27, 28, 29, 30)
+ Odors: None
+ Conc: None
+ Tif: JG7404_210715_field1_cellseries_00006_00001.tif
+ Wavesurfer: JG7404_210715_field1_cellseries_002_0006.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 7
+ Power: 16.98 A (30 mW) 3 pulses
+ Hologram: JG7404_210715_field1_responders_7_individual cells (31, 32, 33, 34, 35)
+ Odors: None
+ Conc: None
+ Tif: JG7404_210715_field1_cellseries_00007_00001.tif
+ Wavesurfer: JG7404_210715_field1_cellseries_002_0007.tif
+ Voyeur: Foo
+ Result:
+ Notes:
+
+x=0, y=0, z=0.00 
+
+Block 8
+ Power: 16.98 A (30 mW) 3 pulses
+ Hologram: JG7404_210715_field1_responders_8_individual cells (36, 37, 38, 39, 40)
+ Odors: None
+ Conc: None
+ Tif: JG7404_210715_field1_cellseries_00008_00001.tif
+ Wavesurfer: JG7404_210715_field1_cellseries_002_0008.tif
+ Voyeur: Foo
+ Result:
+ Notes:
